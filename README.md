@@ -2,4 +2,4 @@
 
 CV realizado con HTML, CSS, y JS
 
-##### [GitHubPages link](https://juliofleitas.github.io/)
+##### [GitHubPages link: juliofleitas.github.io](https://juliofleitas.github.io/)
